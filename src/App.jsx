@@ -1,12 +1,10 @@
-import './App.css'
-import Card from './Components/Card'
+import './style/App.css'
 import Form from './Components/Form'
 
 function App() {
 
   return (
     <>
-      <Card/>
       <Form/>
     </>
   )

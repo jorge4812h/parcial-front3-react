@@ -1,0 +1,12 @@
+.cardContainer {
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: aliceblue;
+    color: black;
+}
+
+.team{
+    font-size: 2rem;
+    color: rgb(44, 41, 41);
+}
+  
